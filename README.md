@@ -39,8 +39,9 @@ Voilà! the hierarchy is restored within the directory.
 
 Notes
 -----
-
+THIS WILL ONLY WORK ON *NIX TYPE SYSTEMS -- I AM LAZY AND THE FILE SEPARATORS ARE HARD CODED AS "/"
 FTKRestore removes the first level of hierarchy from a given path for each file to remove the image name from the restored Heirarchy. It will account for duplicate filenames by finding the first matching name in the file list and moving it to the correct target directory and renaming it by removing the FTK designated file ID that it assigns. 
+
 
 
 

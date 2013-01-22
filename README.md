@@ -20,7 +20,7 @@ Your directory should look similar to this:
 Example FileList.txt  
 source [AD1]/Angie Wang/Ongoing Recovery Program/EAP providers for DM.xls  
 source [AD1]/Angie Wang/Correspondence and Notes/Information Session Feedback.doc  
-source [AD1]/Angie Wang/Ongoing Recovery Program/Information Session Feedback[1045].doc  
+source [AD1]/Angie Wang/Ongoing Recovery Program/Information Session Feedback.doc  
 
 Then run the FTKRestore jar with the export directory as the only argument, as so: java -jar FTKRestore.jar MyExport
 

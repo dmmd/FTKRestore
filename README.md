@@ -18,7 +18,7 @@ Your directory should look similar to this:
 
 Then run the FTKRestore jar with the export directory as the only argument, as so: java -jar FTKRestore.jar MyExport
 
-Voila! the hierarchy is restored within the directory. 
+Voilà! the hierarchy is restored within the directory. 
 
 Notes
 -----

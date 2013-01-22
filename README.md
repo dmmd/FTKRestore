@@ -20,5 +20,20 @@ Then run the FTKRestore jar with the export directory as the only argument, as s
 
 Voila! the hierarchy is restored within the directory. 
 
+Notes
+-----
+
+FTKRestore removes the first level of hierarchy from a given path for each file to remove the image name from the restored Heirarchy
+
+For example: source [AD1]/Angie Wang/American Red Cross/AAP FAQ EXT.doc
+
+Becomes
+* /Angie Wang
+    * /American Red Cross
+        * AAP FAQ EXT.doc
+
+
+
+
 
 

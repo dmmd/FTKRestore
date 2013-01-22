@@ -10,11 +10,11 @@ FTK, rather annoyingly, exports files into a single flat directory. To restore t
 
 Your directory should look similar to this:
 
-*/MyExport
-    *FileList.txt
-    *MyFile1.doc
-    *MyFile2.doc
-    *MyFile2[1003].doc
+* /MyExport
+    * FileList.txt
+    * MyFile1.doc
+    * MyFile2.doc
+    * MyFile2[1003].doc
 
 Then run the FTKRestore jar with the export directory as the only argument, as so: java -jar FTKRestore.jar MyExport
 
